@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hello! I’m Steven, a CS student at EPFL. As an aspiring Java Backend Developer specializing in Spring Boot, I am driven to architect high-concurrency distributed systems through the integration of ethical and efficient AI-enhanced workflows.
+Hello! I’m Steven, a Computer Science 2nd Year Undergraduate at EPFL. 
+
+Here are some of my projects:
+- [Swiss Public Transport Router](https://github.com/jisteven-epfl/rechor-showcase) - Java, CSA algorithm and OOP
+- [French Tarot Card Game Web App](https://github.com/jisteven-epfl/tarot-showcase) - Scala, State-View-Event Model, Functional Programming
+- [Enhanced Boids Simulation](https://github.com/jisteven-epfl/boids-showcase) - Scala, Boids algorithm + Predator-Prey logic
+- [Flibit Binary Converter](https://github.com/jisteven-epfl/flibit-converter) - React/TS + DevOps(CI/CD, Docker)
 
 # 💻 Tech Stack:
 **Main**
