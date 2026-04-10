@@ -3,7 +3,7 @@ Hello! I’m Steven, a 2nd Year Computer Science Undergraduate at EPFL.
 
 Driven by a passion for **System Robustness & Scalability**, I aim to build resilient software by harnessing the synergy between Java's **Robustness**, Cloud **Scalability**, and AI-powered **Efficiency**.
 
-### [New!] I'm looking for an internship this summer, feel free to contact me :) - steven.ji@epfl.ch or [LinkedIn](https://www.linkedin.com/in/steven-ji-26a875241/)
+### [New!] I'm looking for a Java internship this summer, feel free to contact me :) - steven.ji@epfl.ch or [LinkedIn](https://www.linkedin.com/in/steven-ji-26a875241/)
 
 #### Here are some of my projects:
 - [Swiss Public Transport Router](https://github.com/jisteven-epfl/rechor-showcase) - Java, CSA algorithm and OOP
