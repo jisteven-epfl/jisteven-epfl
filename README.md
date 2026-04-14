@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello! I’m Steven, a 2nd Year Computer Science Undergraduate at EPFL. 
 
-Driven by a passion for **System Robustness & Scalability**, I aim to build resilient software by harnessing the synergy between Java's **Robustness**, Cloud **Scalability**, and AI-powered **Efficiency**.
+Driven by a passion for **System Robustness & Scalability**, I aim to build resilient software by harnessing the synergy between Java's **Robustness**, Cloud **Scalability**, and AI's **Intelligence**.
 
 #### Here are some of my projects:
 - [Swiss Public Transport Router](https://github.com/jisteven-epfl/rechor-showcase) - Java 21, CSA (Connection Scan Algorithm) and Pareto, Java FX, No Backend Framework
