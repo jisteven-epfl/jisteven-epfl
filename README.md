@@ -3,19 +3,21 @@ Hello! I’m Steven, a 2nd Year Computer Science Undergraduate at EPFL.
 
 Driven by a passion for **System Robustness & Scalability**, I aim to build resilient software by harnessing the synergy between Java's **Robustness**, Cloud **Scalability**, and AI-powered **Efficiency**.
 
-### [New!] I'm looking for a Java internship this summer, feel free to contact me :) - steven.ji@epfl.ch or [LinkedIn](https://www.linkedin.com/in/steven-ji-26a875241/)
-
 #### Here are some of my projects:
-- [Swiss Public Transport Router](https://github.com/jisteven-epfl/rechor-showcase) - Java, CSA algorithm and OOP
-- [French Tarot Card Game Web App](https://github.com/jisteven-epfl/tarot-showcase) - Scala, State-View-Event Model, Functional Programming
-- [Enhanced Boids Simulation](https://github.com/jisteven-epfl/boids-showcase) - Scala, Boids algorithm + Predator-Prey logic
-- [Flibit Binary Converter](https://github.com/jisteven-epfl/flibit-converter) - React/TS + DevOps(CI/CD, Docker)
+- [Swiss Public Transport Router](https://github.com/jisteven-epfl/rechor-showcase) - Java 21, CSA (Connection Scan Algorithm) and Pareto, Java FX, No Backend Framework
+- [French Tarot Card Game Web App](https://github.com/jisteven-epfl/tarot-showcase) - Scala, Functional Programming, Custom Stateful Backend
+- [Enhanced Boids Simulation](https://github.com/jisteven-epfl/boids-showcase) - Scala, Boids algorithm + Custom Predator-Prey Logic, only Backend
+- [Flibit Binary Converter](https://github.com/jisteven-epfl/flibit-converter) - Experiment Full-AI workflow, Learning DevOps (CI/CD, Docker), React/TS/Tailwind/Zustand
 
 #### Currently Learning:
-- Computer Systems & Networks
-- Algorithms & Data Structures + LeetCode
+- Computer Systems (OS) & Networks
+- Algorithms & Data Structures
 - Introductory Machine Learning Algorithms
-- Multi AI Agent workflow + DevOps(CI, Docker)
+- Multi AI Agent workflow + DevOps (CI/CD, Docker)
+
+#### Aim to learn, Prospectives:
+- SpringBoot, Spring AI, LangChain/LangGraph
+- Redis, PostgreSQL, Kafka and other common middlewares
 
 # 💻 Tech Stack & Tools:
 **Main**
