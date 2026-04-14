@@ -1,3 +1,4 @@
+English | [Chinese](https://github.com/jisteven-epfl/jisteven-epfl/blob/main/README_zh.md)
 # 💫 About Me:
 Hello! I’m Steven Ji, a 2nd Year Computer Science Undergraduate at EPFL. 
 
