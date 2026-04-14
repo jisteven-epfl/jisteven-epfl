@@ -19,7 +19,7 @@ Driven by a passion for **System Robustness & Scalability**, I aim to build resi
 - Multi AI Agent workflow + DevOps (CI/CD, Docker)
 
 #### Aim to learn, Prospectives:
-- SpringBoot, Spring AI, LangChain/LangGraph
+- SpringBoot, Spring AI, LangChain/LangGraph， Spring Cloud
 - Redis, PostgreSQL, Kafka and other common middlewares
 
 # 💻 Tech Stack & Tools:
