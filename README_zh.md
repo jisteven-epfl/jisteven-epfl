@@ -1,6 +1,6 @@
 # 💠 关于我
 你好！我是Steven Ji 季善杰，目前就读于 EPFL 计算机科学专业，大二在读。目前专注 Java 后端，志在构建**稳健高效，云赋能，AI赋能**的卓越产品。
-一路走来，虽饶了些弯路（游戏开发，自媒体），但好在早撞南墙早回头，既收获了乐趣，也更加坚定了自己未来的职业长期发展道路。
+一路走来，虽饶了些弯路（游戏开发，自媒体），但好在早撞南墙早回头，既收获了乐趣与视野，也更加坚定了自己未来的职业长期发展道路。
 
 <!-- 生活中，我喜欢修仙文化，制作过游戏，运营过自媒体，有空想阅读毛选。未来如果有机会还想投身教育行业吧… -->
 
@@ -15,7 +15,7 @@
 
 ## 💻 项目经历
 - **[瑞士公共交通导航系统](https://github.com/jisteven-epfl/rechor-showcase)**：基于 Java 21 开发，采用连接扫描算法（CSA）与帕累托最优（Pareto）理论，结合 JavaFX 实现。
-- **[法国塔罗牌网页应用](https://github.com/jisteven-epfl/tarot-showcase)**：使用 Scala 开发，深度实践函数式编程（FP），并构建了自定义的有状态后端。
+- **[法国塔罗牌网页应用](https://github.com/jisteven-epfl/tarot-showcase)**：使用 Scala 开发，深度实践函数式编程（FP），并设计了基于状态机的后端架构。
 - **[增强型 Boids 群体仿真](https://github.com/jisteven-epfl/boids-showcase)**：基于 Scala 实现，在基础 Boids 算法之上加入了自定义的“捕食者-猎物”逻辑。
 - **[Flibit 进制转换器](https://github.com/jisteven-epfl/flibit-converter)**：全 AI 工作流开发实验，借此学习 DevOps（CI/CD、Docker）流程，技术栈涉及 React/TS/Tailwind/Zustand。
 
