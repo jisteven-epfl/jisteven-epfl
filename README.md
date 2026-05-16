@@ -2,13 +2,17 @@ English | [Chinese](https://github.com/jisteven-epfl/jisteven-epfl/blob/main/R
 # 💠 About Me
 Hello! I’m Steven Ji, a 2nd Year Computer Science Undergraduate at EPFL. 
 
+[![LinkedIn](https://img.shields.io/badge/in-LinkedIn-0A66C2?style=flat&labelColor=0A66C2)](https://www.linkedin.com/in/steven-ji-26a875241/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:steven.ji@epfl.com) 
+
+### My Philosophie:
+
 Driven by a passion for **System Robustness & Scalability**, I aim to build resilient software by harnessing the synergy between:
 - Java's **Robustness**,
 - Cloud **Scalability**,
 - and AI's **Intelligence**.
 
-[![LinkedIn](https://img.shields.io/badge/in-LinkedIn-0A66C2?style=flat&labelColor=0A66C2)](https://www.linkedin.com/in/steven-ji-26a875241/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:steven.ji@epfl.com) 
+<!-- [About Life & Product Vision: TODO] -->
 
 ### Projects:
 - [Swiss Public Transport Router](https://github.com/jisteven-epfl/rechor-showcase) - Java 21, CSA (Connection Scan Algorithm) and Pareto, Java FX
