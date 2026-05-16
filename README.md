@@ -35,7 +35,8 @@ Driven by a passion for **System Robustness & Scalability**, I aim to build resi
 - Future Learning Roadmap:
   - **Testing & Observability:** JUnit, Mockito, SpringBoot Actuator(Micrometer, Prometheus)
   - **Middlewares:** Redis, Kafka, RabbitMQ, ElasticSearch
-  - **Cloud & AI:** Spring Cloud, K8s, LangChain4j/LangGraph
+  - **AI Integration:** Spring AI, LangChain4j, RAG
+  - **Cloud Architecture:** Spring Cloud, K8s
 
 # 🧰 Tech Stack
 
