@@ -35,7 +35,7 @@ Driven by a passion for **System Robustness & Scalability**, I aim to build resi
 - Future Learning Roadmap:
   - **Testing & Observability:** JUnit, Mockito, SpringBoot Actuator(Micrometer, Prometheus)
   - **Middlewares:** Redis, Kafka, RabbitMQ, ElasticSearch
-  - **Cloud & AI:** Spring Cloud, K8s, LangChain/LangGraph
+  - **Cloud & AI:** Spring Cloud, K8s, LangChain4j/LangGraph
 
 # 🧰 Tech Stack
 
@@ -66,6 +66,7 @@ Driven by a passion for **System Robustness & Scalability**, I aim to build resi
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat&logo=framer&logoColor=EA4C89)
 
 ### Others
