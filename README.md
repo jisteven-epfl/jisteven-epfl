@@ -1,5 +1,5 @@
 English | [Chinese](https://github.com/jisteven-epfl/jisteven-epfl/blob/main/README_zh.md) (Not updated yet)
-# 💠 About Me:
+# 💠 About Me
 Hello! I’m Steven Ji, a 2nd Year Computer Science Undergraduate at EPFL. 
 
 Driven by a passion for **System Robustness & Scalability**, I aim to build resilient software by harnessing the synergy between:
@@ -7,28 +7,37 @@ Driven by a passion for **System Robustness & Scalability**, I aim to build resi
 - Cloud **Scalability**,
 - and AI's **Intelligence**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-ji-26a875241/)
+[![LinkedIn](https://img.shields.io/badge/in-LinkedIn-0A66C2?style=flat&labelColor=0A66C2)](https://www.linkedin.com/in/steven-ji-26a875241/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:steven.ji@epfl.com) 
 
 ### Projects:
-- [Swiss Public Transport Router](https://github.com/jisteven-epfl/rechor-showcase) - Java 21, CSA (Connection Scan Algorithm) and Pareto, Java FX, No Backend Framework
+- [Swiss Public Transport Router](https://github.com/jisteven-epfl/rechor-showcase) - Java 21, CSA (Connection Scan Algorithm) and Pareto, Java FX
 - [French Tarot Card Game Web App](https://github.com/jisteven-epfl/tarot-showcase) - Scala, Functional Programming, FSM Backend Architecture
-- [Enhanced Boids Simulation](https://github.com/jisteven-epfl/boids-showcase) - Scala, Boids algorithm + Custom Predator-Prey Logic, only Backend
-- [Flibit Binary Converter](https://github.com/jisteven-epfl/flibit-converter) - Experiment Full-AI workflow, Learning DevOps (CI/CD, Docker), React/TS/Tailwind/Zustand
-- Personal Blog - SpringBoot & Next.js, will be deployed soon.
+- [Enhanced Boids Simulation](https://github.com/jisteven-epfl/boids-showcase) - Scala, Boids algorithm + Predator-Prey Logic
+- [Flibit Binary Converter](https://github.com/jisteven-epfl/flibit-converter) - Experiment AI workflow, Learning DevOps (CI/CD, Docker), React/TS/Tailwind/Zustand
+- Personal Blog - Self Studying SpringBoot & AI driven Frontend (Next.js), will be deployed soon
 
 # ⛳️ Current Progress
 
 #### At EPFL:
-- Computer Systems (OS) & Networks
-- Algorithms & Data Structures
-- Machine Learning, Unsupervised Learning
+- Computer Systems & Networks
+- Data Structures & Algorithms
+- Machine Learning
+- Future Learning Topics:
+  - Parallelism & Concurrency,
+  - Computer Language Processing (NLP)
+  - Online Decision Making
+  - Distributed Systems
 
 #### Self-Studying:
-- SpringBoot, Spring Security, PostgreSQL, Flyway, React/Next.js
-- Docker, CI/CD, AI IDE/CLI
+- SpringBoot, Spring Security, PostgreSQL, React/Next.js
+- Docker, CI/CD, AI IDE/CLI workflow
+- Future Learning Roadmap:
+  - **Testing & Observability:** JUnit, Mockito, SpringBoot Actuator(Micrometer, Prometheus)
+  - **Middlewares:** Redis, Kafka, RabbitMQ, ElasticSearch
+  - **Cloud & AI:** Spring Cloud, K8s, LangChain/LangGraph
 
-# 🛠️ Tech Stack & Tools:
+# 🧰 Tech Stack
 
 ### Backend
 - **Main:**
@@ -50,21 +59,19 @@ Driven by a passion for **System Robustness & Scalability**, I aim to build resi
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat&logo=framer&logoColor=EA4C89)
 
 ### Others
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white) 
-![OPENSPEC](https://img.shields.io/badge/OpenSpec-black?style=flat&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
+![OPENSPEC](https://img.shields.io/badge/OPENSPEC-black?style=flat&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=flat&logo=godot-engine)
 ![Scratch](https://img.shields.io/badge/Scratch-FF8C1A?style=flat&logo=scratch&logoColor=white)
 
