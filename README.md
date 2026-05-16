@@ -7,7 +7,7 @@ Hello! I’m Steven Ji, a 2nd Year Computer Science Undergraduate at EPFL.
 
 ### My Philosophie:
 
-Life is **short**, good code **lasts**. Let's build what endures to help people **today** and **tomorrow**.
+Life is **Short**, good code **Lasts**. Let's build what endures to help people **Today** and **Tomorrow**.
 
 Driven by a passion for **System Robustness & Scalability**, I aim to build resilient software by harnessing the synergy between:
 - Java's **Robustness**,
