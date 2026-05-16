@@ -7,12 +7,12 @@ Hello! I’m Steven Ji, a 2nd Year Computer Science Undergraduate at EPFL.
 
 ### My Philosophie:
 
+Life is **short**, good code **lasts**. Let's build what endures to help people **today** and **tomorrow**.
+
 Driven by a passion for **System Robustness & Scalability**, I aim to build resilient software by harnessing the synergy between:
 - Java's **Robustness**,
 - Cloud **Scalability**,
 - and AI's **Intelligence**.
-
-<!-- [About Life & Product Vision: TODO] -->
 
 ### Projects:
 - [Swiss Public Transport Router](https://github.com/jisteven-epfl/rechor-showcase) - Java 21, CSA (Connection Scan Algorithm) and Pareto, Java FX
